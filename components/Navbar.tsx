@@ -14,10 +14,10 @@ function Navbar() {
               <Link href="/about">Aboutk</Link>
             </li>
             <li>
-              <Link href="/price">price</Link>
+              <Link href="/price">Price</Link>
             </li>
             <li>
-              <Link href="/contact">href="/about"</Link>
+              <Link href="/contact">Contact</Link>
             </li>
           </ul>
         </div>
